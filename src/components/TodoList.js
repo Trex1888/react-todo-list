@@ -17,7 +17,6 @@ export default class TodoList extends Component {
             />
           );
         })}
-
         <button
           type="button"
           className="btn btn-danger btn-block text-capitalize mt-5"
